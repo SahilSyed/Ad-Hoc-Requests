@@ -11,7 +11,7 @@ This project involves working on a set of ad-hoc business requests from a consum
 ## LinkedIn Presentation
 
 You can view the detailed presentation of this project on my LinkedIn profile:  
-[LinkedIn Presentation Link](#https://www.linkedin.com/posts/syedsahil_codebasics-sql-videopresentation-activity-7251950717270163456-NBul?utm_source=share&utm_medium=member_desktop)
+[LinkedIn Presentation Link](https://www.linkedin.com/posts/syedsahil_codebasics-sql-videopresentation-activity-7251950717270163456-NBul?utm_source=share&utm_medium=member_desktop)
 
 ---
 
