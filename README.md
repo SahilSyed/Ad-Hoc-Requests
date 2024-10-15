@@ -89,6 +89,28 @@ You can view the detailed presentation of this project on my LinkedIn profile:
 
 ---
 
+## SNAPSHOTS
+
+![Screenshot 2024-10-15 172208](https://github.com/user-attachments/assets/00d537c9-3407-4ea9-8974-a7ed3056ec57)
+![Screenshot 2024-10-15 183101](https://github.com/user-attachments/assets/c36399ca-4ba3-4182-88bf-6c29f7273f34)
+![Screenshot 2024-10-15 183120](https://github.com/user-attachments/assets/4adb5d75-66b6-41f6-ab0d-169a5abfed90)
+![Screenshot 2024-10-15 183144](https://github.com/user-attachments/assets/7e2e4696-3bbd-44bb-94f1-7e79794f1b00)
+![Screenshot 2024-10-15 183208](https://github.com/user-attachments/assets/6b249e4b-136a-4a6b-bf7c-3187a06e033f)
+![Screenshot 2024-10-15 183258](https://github.com/user-attachments/assets/39f8b245-8f5e-4a29-b2c0-320eb6478b41)
+![Screenshot 2024-10-15 183322](https://github.com/user-attachments/assets/6d908f3b-63cf-4934-a95f-df3845738ff9)
+![Screenshot 2024-10-15 183344](https://github.com/user-attachments/assets/d598023f-a70e-4487-b0a5-d1c687404ce8)
+![Screenshot 2024-10-15 183408](https://github.com/user-attachments/assets/83bf7fb8-247c-4259-83a5-51a3e0d79396)
+![Screenshot 2024-10-15 183428](https://github.com/user-attachments/assets/1013ed19-69e9-4d45-be01-cf7ac9e1f9fb)
+![Screenshot 2024-10-15 183454](https://github.com/user-attachments/assets/0fd5b399-f37c-401e-a0bc-ccb821c82ccc)
+![Screenshot 2024-10-15 183542](https://github.com/user-attachments/assets/cdd9527e-55a4-447f-a42a-c82f983f2434)
+![Screenshot 2024-10-15 183557](https://github.com/user-attachments/assets/bc68fed1-7579-4c0e-895c-1a0066e8aa34)
+![Screenshot 2024-10-15 183617](https://github.com/user-attachments/assets/588ca539-e77a-4b5c-8ef0-d1534815dc15)
+![Screenshot 2024-10-15 183635](https://github.com/user-attachments/assets/912da689-6349-4288-8db5-e119657dac55)
+![Screenshot 2024-10-15 183650](https://github.com/user-attachments/assets/afc5e9b6-5fb8-4e9d-8428-4415738361c5)
+![Screenshot 2024-10-15 183705](https://github.com/user-attachments/assets/9f0bdbe2-6bd0-447c-bcdb-4bcea9187012)
+
+---
+
 ## Conclusion
 
 This project demonstrates the ability to respond to dynamic business requirements using SQL, showcasing proficiency in writing complex queries, using joins, aggregate functions, and applying various SQL concepts to deliver actionable business insights.
